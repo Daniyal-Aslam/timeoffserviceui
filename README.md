@@ -2,21 +2,21 @@
 
 A React + TypeScript dashboard for managing employee time-off requests.
 
-** Features**
+**Features**
 
-* View leave balance
-* Submit time-off requests
-* Sync data with backend
-* Dark / Light mode
+*View leave balance
+*Submit time-off requests
+*Sync data with backend
+*Dark / Light mode
 
-** Tech Stack**
+**Tech Stack**
 
-* React (TypeScript)
-* Vite
-* Ant Design
-* Axios
+*React (TypeScript)
+*Vite
+*Ant Design
+*Axios
 
-** Setup Guide**
+**Setup Guide**
 
 Clone Repository
 
@@ -27,7 +27,7 @@ cd timeoffservice-ui
 
 npm install
 
-** Setup Environment**
+**Setup Environment**
 
 Create .env file:
 
